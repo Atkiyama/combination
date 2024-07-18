@@ -8,13 +8,13 @@ G->M
 H->N
 I->O
 J->P
-K->Q
+K->Q、
 L->R
 M->S
 N->T
 O->A
 P->B
-Q->C
+Q->C、
 R->D
 S->E
 T->F
